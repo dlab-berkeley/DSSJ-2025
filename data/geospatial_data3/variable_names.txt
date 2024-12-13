@@ -1,0 +1,7 @@
+VALUE0	Per Capita Income, 2022
+VALUE1	# Household Income by Race | Households with a householder who is Black or African American alone, 2022
+VALUE2	# Household Income by Race | Households with a householder who is White alone, 2022
+VALUE3	# Household Income by Race | Households with a householder who is American Indian and Alaska Native alone, 2022
+VALUE4	# Household Income by Race | Households with a householder who is Asian alone, 2022
+VALUE5	# Household Income by Race | Households with a householder who is Native Hawaiian and Other Pacific Islander alone, 2022
+VALUE6	# Household Income by Race | Households with a householder who is Some other race alone, 2022

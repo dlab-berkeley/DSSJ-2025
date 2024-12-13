@@ -1,0 +1,10 @@
+VALUE0	% Educational Attainment | Bachelor's degree or higher, 2022
+VALUE1	Median Household Income, 2022
+VALUE2	% School Enrollment | Enrolled in college, undergraduate years, 2022
+VALUE3	% Poverty Status by Age | In Poverty, 2022
+VALUE4	% Sex | Male, 2022
+VALUE5	% Sex | Female, 2022
+VALUE6	% Citizenship Status | Not a U.S. citizen, 2022
+VALUE7	% Citizenship Status | U.S. citizen by naturalization, 2022
+VALUE8	% Place of Birth | Foreign born, 2022
+VALUE9	% Place of Birth | Born in state of residence, 2022

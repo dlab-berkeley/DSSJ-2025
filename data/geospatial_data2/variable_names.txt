@@ -1,0 +1,10 @@
+VALUE0	% Educational Attainment | Bachelor's degree or higher, 2022
+VALUE1	Median Household Income, 2022
+VALUE2	% Housing Tenure | Owner occupied, 2022
+VALUE3	% Housing Tenure | Renter occupied, 2022
+VALUE4	% School Enrollment | Graduate or professional school, 2022
+VALUE5	# School Enrollment | Enrolled in college, undergraduate years, 2022
+VALUE6	% School Enrollment | Enrolled in college, undergraduate years, 2022
+VALUE7	% Poverty Status by Age | In Poverty, 2022
+VALUE8	% Sex | Male, 2022
+VALUE9	% Sex | Female, 2022
